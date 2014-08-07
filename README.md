@@ -7,9 +7,13 @@ d3.js Calendar View Heatmap
 
 A new layout compared with [the original d3.js calendar](http://bl.ocks.org/mbostock/4063318).
 The visualization in this repository is better suited for data that span over a couple years, as opposed to decades.
+
 Features:
+
     - tooltip hover
+
     - month and year labels
+
 
 
 ## Running the visualization
@@ -18,6 +22,7 @@ Simply `cd` into the directory and run a localhost from there.
 
 I recommend using this command:
 ```python -m SimpleHTTPServer```
+
 
 
 ## Credits
