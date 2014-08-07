@@ -3,7 +3,7 @@ d3.js Calendar View Heatmap
 
 *d3.js* visualization of a calendar heatmap.
 
-[Demo can be view here](http://kathyz.github.io/d3-calendar/)
+[Demo can be viewed here](http://kathyz.github.io/d3-calendar/)
 
 A new layout compared with [the original d3.js calendar](http://bl.ocks.org/mbostock/4063318).
 The visualization in this repository is better suited for data that span over a couple years, as opposed to decades.
