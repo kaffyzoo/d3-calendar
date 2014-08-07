@@ -9,8 +9,9 @@ A new layout compared with [the original d3.js calendar](http://bl.ocks.org/mbos
 The visualization in this repository is better suited for data that span over a couple years, as opposed to decades.
 
 Features:
-*tooltip hover
-*month and year labels
+
+* tooltip hover
+* month and year labels
 
 
 
