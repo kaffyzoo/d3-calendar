@@ -31,6 +31,8 @@ I recommend using this command:
 [Yahoo! finance](http://finance.yahoo.com/) for historical data.
 
 ## About
-Kathy Zhou
+Kathy Zhou, software developer and d3 enthusiast :)
+
 twitter: [@kaffkaff](https://twitter.com/Kaffkaff)
+
 homepage: [kathyzhou.com](http://www.kathyzhou.com/)
