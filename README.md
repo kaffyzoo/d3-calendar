@@ -10,9 +10,8 @@ The visualization in this repository is better suited for data that span over a 
 
 Features:
 
-    - tooltip hover
-
-    - month and year labels
+    *tooltip hover
+    *month and year labels
 
 
 
